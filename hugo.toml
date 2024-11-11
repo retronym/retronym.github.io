@@ -1,0 +1,4 @@
+baseURL = 'https://retronym.github.io/'
+languageCode = 'en-us'
+title = '@retronym'
+theme = 'ananke'
